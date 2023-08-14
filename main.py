@@ -6,3 +6,4 @@ if __name__ == '__main__':
     print('Final commit')
 
     print('New branch created!')
+    print('New feature added!')
