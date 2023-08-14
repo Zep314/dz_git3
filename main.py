@@ -5,5 +5,4 @@ if __name__ == '__main__':
     print('Second commit')
     print('Final commit')
 
-    print('New branch (release) created!')
-    
+    print('New branch created!')
